@@ -1,6 +1,6 @@
 # 🛡️ SpamShield AI — Email Spam Classifier
 
-A machine learning web application that classifies emails as **Spam** or **Not Spam** using a Logistic Regression model, Flask backend, and MongoDB for prediction history.
+A machine learning web application that classifies emails as **Spam** or **Not Spam** using a SVM model, Flask backend, and MongoDB for prediction history.
 
 ## 📸 Features
 
