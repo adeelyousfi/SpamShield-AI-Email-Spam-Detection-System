@@ -16,7 +16,7 @@ A machine learning web application that classifies emails as **Spam** or **Not S
 | Layer | Technology |
 |---|---|
 | Backend | Python, Flask |
-| ML Model | Scikit-learn (Logistic Regression) |
+| ML Model | Scikit-learn |
 | Vectorizer | TF-IDF (bigrams, 10k features) |
 | Database | MongoDB (via PyMongo) |
 | Frontend | HTML, CSS, Bootstrap 5 |
